@@ -48,10 +48,7 @@ npm install
 npm start
 🎥 Demo
 Demo video will be added.
-
-👥 Team
-Rahul Dounde
-ranjeet shinde 
+ 
 
 🏁 Hackathon Submission
 Working MVP
